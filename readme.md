@@ -7,8 +7,8 @@ Use the test environment.
 
 Check the visualizer: https://rawgit.com/goshawkdb/visualizer/master/index.html
 
-Install with `node install --save kybernetikos/gos-bplus` or check it out and
-`npm install`.
+Install into an existing module with `npm install --save kybernetikos/gos-bplus` or check it out and
+`npm install` from inside.
 
 Run the example with `node example.js` inside gos-bplus.
 
